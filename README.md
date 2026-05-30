@@ -53,5 +53,6 @@ A comprehensive repository dedicated to mastering Modern JavaScript (ES6 and bey
    ```bash
    git clone [https://github.com/tanjil-islam/JavaScript-ES6-.git](https://github.com/tanjil-islam/JavaScript-ES6-.git)
 
-2.cd JavaScript-ES6-
+2.cd JavaScript-ES6
+
 3.node ArrowFunction.js
